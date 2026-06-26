@@ -1,19 +1,134 @@
 {
   "version": 1,
-  "updated_at": "2026-06-01",
-  "categories": [ ... ],
+  "updated_at": "2026-06-27",
+  "categories": [
+    { "id": "nature", "label": "Nature", "icon": "🌿" },
+    { "id": "abstract", "label": "Abstract", "icon": "🎨" },
+    { "id": "dark", "label": "Dark", "icon": "🌑" },
+    { "id": "minimal", "label": "Minimal", "icon": "◻️" },
+    { "id": "anime", "label": "Anime", "icon": "⛩️" },
+    { "id": "cars", "label": "Cars", "icon": "🚗" }
+  ],
   "wallpapers": [
     {
       "id": "wp_001",
-      "title": "Forest Mist",
+      "title": "Wallpaper 1",
       "category": "nature",
-      "tags": ["green", "fog"],
-      "image_url": "images/wp_001.jpg",
+      "tags": ["green", "forest"],
+      "image_url": "https://raw.githubusercontent.com/vorlon-dev/muralix-wallpapers/7865ea1d3fd524d23fcb237c06d4b46fabf953ea/images/wp_001.png",
       "resolution": "3840x2160",
       "color": "#2D4A3E",
       "is_new": true,
       "is_featured": false,
-      "added_at": "2025-05-28"
+      "added_at": "2026-06-27"
+    },
+    {
+      "id": "wp_002",
+      "title": "Wallpaper 2",
+      "category": "abstract",
+      "tags": ["colorful", "gradient"],
+      "image_url": "https://raw.githubusercontent.com/vorlon-dev/muralix-wallpapers/7865ea1d3fd524d23fcb237c06d4b46fabf953ea/images/wp_002.png",
+      "resolution": "3840x2160",
+      "color": "#FF5733",
+      "is_new": false,
+      "is_featured": true,
+      "added_at": "2026-06-27"
+    },
+    {
+      "id": "wp_003",
+      "title": "Wallpaper 3",
+      "category": "dark",
+      "tags": ["black", "night"],
+      "image_url": "https://raw.githubusercontent.com/vorlon-dev/muralix-wallpapers/7865ea1d3fd524d23fcb237c06d4b46fabf953ea/images/wp_003.png",
+      "resolution": "3840x2160",
+      "color": "#000000",
+      "is_new": false,
+      "is_featured": false,
+      "added_at": "2026-06-27"
+    },
+    {
+      "id": "wp_004",
+      "title": "Wallpaper 4",
+      "category": "minimal",
+      "tags": ["simple", "white"],
+      "image_url": "https://raw.githubusercontent.com/vorlon-dev/muralix-wallpapers/7865ea1d3fd524d23fcb237c06d4b46fabf953ea/images/wp_004.png",
+      "resolution": "3840x2160",
+      "color": "#FFFFFF",
+      "is_new": false,
+      "is_featured": false,
+      "added_at": "2026-06-27"
+    },
+    {
+      "id": "wp_005",
+      "title": "Wallpaper 5",
+      "category": "anime",
+      "tags": ["kawaii", "pink"],
+      "image_url": "https://raw.githubusercontent.com/vorlon-dev/muralix-wallpapers/7865ea1d3fd524d23fcb237c06d4b46fabf953ea/images/wp_005.png",
+      "resolution": "3840x2160",
+      "color": "#FFC0CB",
+      "is_new": true,
+      "is_featured": false,
+      "added_at": "2026-06-27"
+    },
+    {
+      "id": "wp_006",
+      "title": "Wallpaper 6",
+      "category": "cars",
+      "tags": ["sports", "red"],
+      "image_url": "https://raw.githubusercontent.com/vorlon-dev/muralix-wallpapers/7865ea1d3fd524d23fcb237c06d4b46fabf953ea/images/wp_006.png",
+      "resolution": "3840x2160",
+      "color": "#FF0000",
+      "is_new": false,
+      "is_featured": true,
+      "added_at": "2026-06-27"
+    },
+    {
+      "id": "wp_007",
+      "title": "Wallpaper 7",
+      "category": "nature",
+      "tags": ["ocean", "blue"],
+      "image_url": "https://raw.githubusercontent.com/vorlon-dev/muralix-wallpapers/7865ea1d3fd524d23fcb237c06d4b46fabf953ea/images/wp_007.png",
+      "resolution": "3840x2160",
+      "color": "#1E90FF",
+      "is_new": false,
+      "is_featured": false,
+      "added_at": "2026-06-27"
+    },
+    {
+      "id": "wp_008",
+      "title": "Wallpaper 8",
+      "category": "abstract",
+      "tags": ["geometric", "lines"],
+      "image_url": "https://raw.githubusercontent.com/vorlon-dev/muralix-wallpapers/7865ea1d3fd524d23fcb237c06d4b46fabf953ea/images/wp_008.png",
+      "resolution": "3840x2160",
+      "color": "#800080",
+      "is_new": false,
+      "is_featured": false,
+      "added_at": "2026-06-27"
+    },
+    {
+      "id": "wp_009",
+      "title": "Wallpaper 9",
+      "category": "dark",
+      "tags": ["skull", "gothic"],
+      "image_url": "https://raw.githubusercontent.com/vorlon-dev/muralix-wallpapers/7865ea1d3fd524d23fcb237c06d4b46fabf953ea/images/wp_009.png",
+      "resolution": "3840x2160",
+      "color": "#2F2F2F",
+      "is_new": false,
+      "is_featured": false,
+      "added_at": "2026-06-27"
+    },
+    {
+      "id": "wp_010",
+      "title": "Wallpaper 10",
+      "category": "minimal",
+      "tags": ["shapes", "pastel"],
+      "image_url": "https://raw.githubusercontent.com/vorlon-dev/muralix-wallpapers/7865ea1d3fd524d23fcb237c06d4b46fabf953ea/images/wp_010.png",
+      "resolution": "3840x2160",
+      "color": "#F0E68C",
+      "is_new": false,
+      "is_featured": false,
+      "added_at": "2026-06-27"
     }
   ]
 }
