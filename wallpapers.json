@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "updated_at": "2026-06-01",
+  "categories": [ ... ],
+  "wallpapers": [
+    {
+      "id": "wp_001",
+      "title": "Forest Mist",
+      "category": "nature",
+      "tags": ["green", "fog"],
+      "image_url": "images/wp_001.jpg",
+      "resolution": "3840x2160",
+      "color": "#2D4A3E",
+      "is_new": true,
+      "is_featured": false,
+      "added_at": "2025-05-28"
+    }
+  ]
+}
